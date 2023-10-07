@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vedaanntttt
+- 👋 Hi, I’m @vedant7978
 - 👀 I’m interested in research field and analytical area 
 - 🌱 I’m currently learning on verious field of computer engg. like java, ML,CD and app development
 - 💞️ I’m looking to collaborate on application development 
